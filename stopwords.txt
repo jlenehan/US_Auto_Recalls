@@ -23,7 +23,6 @@ although
 always
 among
 an
-and
 another
 any
 anybody
@@ -40,6 +39,7 @@ asked
 asking
 asks
 at
+august
 away
 b
 back
@@ -77,6 +77,7 @@ clearly
 come
 could
 d
+dealer
 did
 differ
 different
@@ -182,6 +183,8 @@ its
 itself
 j
 just
+july
+june
 k
 keep
 keeps
@@ -209,6 +212,7 @@ m
 made
 make
 making
+march
 man
 many
 may
@@ -244,12 +248,13 @@ non
 noone
 not
 nothing
+november
 now
 nowhere
 number
 numbers
 o
-of
+october
 off
 often
 old
@@ -273,6 +278,7 @@ others
 our
 out
 over
+owner
 p
 part
 parted
@@ -300,6 +306,7 @@ quite
 r
 rather
 really
+recall
 right
 right
 room
@@ -318,6 +325,7 @@ seemed
 seeming
 seems
 sees
+september
 several
 shall
 she

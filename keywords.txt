@@ -1,1 +1,3 @@
-["service", "notify","replace", "refund", "inspect", "install", "repair", "missing info", "remove", "reroute", "relocate", "reprogram", "modify", "remove", "reroute", "relocate", "reprogram", "modify","retrofit"]
+["service", "notify","replace","refund", "inspect", "install", "repair", "missinginfo", "remove", "reroute", 
+"relocate", "reprogram", "modify", "remove", "reroute", "relocate", "reprogram", "modify","retrofit",
+"adjust"]

@@ -1,1 +1,3 @@
-{"notification": "notify", "notified":"notify", "add":"install","replaced": "replace", "replacement": "replace", "reroute":"modify", "installed": "install", "modification": "modify", "modifications": "modify", "adjust": "modify","tighten":"modify","retorque":"modify","adjusted": "modify", "reposition": "modify", "relocate":"modify", "provide": "replace"}
+{"notification": "notify", "notified":"notify", "add":"install","replaced": "replace", "replacement": "replace",
+"installed": "install", "modification": "modify", "modifications": "modify","secure":"adjust","tighten":"adjust","retorque":"adjust","adjusted": 
+"adjust", "adjust": "modify", "relocate":"adjust", "provide": "replace"}

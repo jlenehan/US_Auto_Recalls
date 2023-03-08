@@ -157,8 +157,6 @@ her
 here
 herself
 high
-high
-high
 higher
 highest
 him
@@ -236,7 +234,6 @@ needing
 needs
 never
 new
-new
 newer
 newest
 next
@@ -306,8 +303,6 @@ quite
 r
 rather
 really
-recall
-right
 right
 room
 rooms

@@ -1,4 +1,4 @@
-{"service":"service unit", "notify":"notify owner","replace":"replace unit/part","refund":"refund unit/part", 
-"inspect":"inspect unit", "install":"install part", "repair":"repair fault", "missinginfo":"Missing Information", "remove":"remove part",
+{"service":"service unit", "notify":"notify owner","replace":"replace unit/part","refund":"refund owner", 
+"inspect":"inspect unit", "install":"install part", "repair":"repair fault", "missinginfo":"missing info", "remove":"remove part",
 "relocate":"relocate part", "reprogram":"reprogram software", "modify":"modify part",
-"retrofit":"retrofit part","adjust":"adjust part"}
+"retrofit":"retrofit part","adjust":"adjust part", "no_classification":"no classification"}

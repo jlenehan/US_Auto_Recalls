@@ -1,0 +1,15 @@
+Action Taken,Frequency
+replace unit/part,13782
+notify owner,13779
+service unit,10895
+inspect unit,4784
+install part,4698
+repair fault,2417
+missing info,2388
+modify part,1339
+no classification,1161
+remove part,658
+adjust part,466
+reprogram software,294
+refund owner,218
+retrofit part,112

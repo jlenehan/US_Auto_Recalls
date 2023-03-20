@@ -1,220 +1,439 @@
 Action Taken,Frequency,Component
-service unit,153,ELECTRICAL SYSTEM
-notify owner,145,ELECTRICAL SYSTEM
-replace unit/part,70,ELECTRICAL SYSTEM
-inspect unit,32,ELECTRICAL SYSTEM
-install part,26,ELECTRICAL SYSTEM
-repair fault,18,ELECTRICAL SYSTEM
-modify part,15,ELECTRICAL SYSTEM
-remove part,5,ELECTRICAL SYSTEM
-adjust part,4,ELECTRICAL SYSTEM
-service unit,199,EQUIPMENT
-notify owner,197,EQUIPMENT
-replace unit/part,139,EQUIPMENT
-inspect unit,54,EQUIPMENT
-install part,33,EQUIPMENT
-repair fault,20,EQUIPMENT
-modify part,5,EQUIPMENT
-refund owner,4,EQUIPMENT
-adjust part,4,EQUIPMENT
-remove part,2,EQUIPMENT
-notify owner,29,SEAT BELTS
-service unit,29,SEAT BELTS
-replace unit/part,18,SEAT BELTS
-inspect unit,12,SEAT BELTS
-modify part,8,SEAT BELTS
-install part,1,SEAT BELTS
-notify owner,16,"SERVICE BRAKES, AIR"
-service unit,16,"SERVICE BRAKES, AIR"
-repair fault,6,"SERVICE BRAKES, AIR"
-inspect unit,5,"SERVICE BRAKES, AIR"
-replace unit/part,4,"SERVICE BRAKES, AIR"
-install part,1,"SERVICE BRAKES, AIR"
-modify part,1,"SERVICE BRAKES, AIR"
-service unit,76,STEERING
-notify owner,74,STEERING
-replace unit/part,52,STEERING
-inspect unit,33,STEERING
-repair fault,9,STEERING
-modify part,7,STEERING
-install part,7,STEERING
-remove part,3,STEERING
-refund owner,1,STEERING
-service unit,41,AIR BAGS
-notify owner,38,AIR BAGS
-replace unit/part,25,AIR BAGS
-inspect unit,12,AIR BAGS
-modify part,3,AIR BAGS
-reprogram software,2,AIR BAGS
-repair fault,2,AIR BAGS
-install part,1,AIR BAGS
-remove part,1,AIR BAGS
-service unit,34,"SERVICE BRAKES, HYDRAULIC"
-notify owner,30,"SERVICE BRAKES, HYDRAULIC"
-replace unit/part,24,"SERVICE BRAKES, HYDRAULIC"
-inspect unit,8,"SERVICE BRAKES, HYDRAULIC"
-repair fault,5,"SERVICE BRAKES, HYDRAULIC"
-install part,4,"SERVICE BRAKES, HYDRAULIC"
-modify part,3,"SERVICE BRAKES, HYDRAULIC"
-remove part,1,"SERVICE BRAKES, HYDRAULIC"
-reprogram software,1,"SERVICE BRAKES, HYDRAULIC"
-service unit,51,STRUCTURE
-notify owner,49,STRUCTURE
-replace unit/part,27,STRUCTURE
-inspect unit,17,STRUCTURE
-install part,15,STRUCTURE
-repair fault,10,STRUCTURE
-modify part,8,STRUCTURE
-remove part,2,STRUCTURE
-service unit,55,POWER TRAIN
-notify owner,52,POWER TRAIN
-replace unit/part,35,POWER TRAIN
-inspect unit,16,POWER TRAIN
-repair fault,6,POWER TRAIN
-install part,3,POWER TRAIN
-reprogram software,3,POWER TRAIN
-modify part,2,POWER TRAIN
-adjust part,1,POWER TRAIN
-remove part,1,POWER TRAIN
-notify owner,9,CHILD SEAT
-service unit,9,CHILD SEAT
-replace unit/part,6,CHILD SEAT
-inspect unit,2,CHILD SEAT
-refund owner,1,CHILD SEAT
-modify part,1,CHILD SEAT
-notify owner,7,"FUEL SYSTEM, OTHER"
-service unit,7,"FUEL SYSTEM, OTHER"
-replace unit/part,6,"FUEL SYSTEM, OTHER"
-repair fault,2,"FUEL SYSTEM, OTHER"
-inspect unit,1,"FUEL SYSTEM, OTHER"
-notify owner,36,BACK OVER PREVENTION
-service unit,36,BACK OVER PREVENTION
-replace unit/part,8,BACK OVER PREVENTION
-reprogram software,3,BACK OVER PREVENTION
-install part,2,BACK OVER PREVENTION
-notify owner,24,VISIBILITY
-service unit,24,VISIBILITY
-replace unit/part,17,VISIBILITY
-inspect unit,8,VISIBILITY
-repair fault,2,VISIBILITY
-remove part,2,VISIBILITY
-install part,2,VISIBILITY
-reprogram software,1,VISIBILITY
-modify part,1,VISIBILITY
-notify owner,24,SEATS
-service unit,24,SEATS
-replace unit/part,12,SEATS
-inspect unit,11,SEATS
-install part,6,SEATS
-modify part,4,SEATS
-remove part,2,SEATS
-repair fault,1,SEATS
-notify owner,41,EXTERIOR LIGHTING
-service unit,41,EXTERIOR LIGHTING
-replace unit/part,21,EXTERIOR LIGHTING
-inspect unit,11,EXTERIOR LIGHTING
-install part,8,EXTERIOR LIGHTING
-repair fault,4,EXTERIOR LIGHTING
-reprogram software,2,EXTERIOR LIGHTING
-adjust part,1,EXTERIOR LIGHTING
-remove part,1,EXTERIOR LIGHTING
-modify part,1,EXTERIOR LIGHTING
-service unit,26,"FUEL SYSTEM, GASOLINE"
-notify owner,25,"FUEL SYSTEM, GASOLINE"
-replace unit/part,23,"FUEL SYSTEM, GASOLINE"
-inspect unit,9,"FUEL SYSTEM, GASOLINE"
-install part,2,"FUEL SYSTEM, GASOLINE"
-adjust part,2,"FUEL SYSTEM, GASOLINE"
-repair fault,1,"FUEL SYSTEM, GASOLINE"
-notify owner,5,ELECTRONIC STABILITY CONTROL
-service unit,5,ELECTRONIC STABILITY CONTROL
-replace unit/part,2,ELECTRONIC STABILITY CONTROL
-notify owner,26,TIRES
-service unit,24,TIRES
-replace unit/part,23,TIRES
-inspect unit,8,TIRES
-install part,3,TIRES
-refund owner,2,TIRES
-repair fault,1,TIRES
-adjust part,1,TIRES
+replace unit/part,963,STEERING
+notify owner,725,STEERING
+service unit,604,STEERING
+inspect unit,425,STEERING
+missing info,313,STEERING
+install part,229,STEERING
+modify part,178,STEERING
+repair fault,108,STEERING
+no classification,42,STEERING
+remove part,42,STEERING
+adjust part,25,STEERING
+refund owner,4,STEERING
+retrofit part,3,STEERING
+reprogram software,3,STEERING
+replace unit/part,819,"SERVICE BRAKES, HYDRAULIC"
+notify owner,540,"SERVICE BRAKES, HYDRAULIC"
+service unit,452,"SERVICE BRAKES, HYDRAULIC"
+inspect unit,365,"SERVICE BRAKES, HYDRAULIC"
+missing info,345,"SERVICE BRAKES, HYDRAULIC"
+install part,263,"SERVICE BRAKES, HYDRAULIC"
+repair fault,122,"SERVICE BRAKES, HYDRAULIC"
+modify part,90,"SERVICE BRAKES, HYDRAULIC"
+no classification,62,"SERVICE BRAKES, HYDRAULIC"
+adjust part,43,"SERVICE BRAKES, HYDRAULIC"
+remove part,27,"SERVICE BRAKES, HYDRAULIC"
+reprogram software,13,"SERVICE BRAKES, HYDRAULIC"
+refund owner,6,"SERVICE BRAKES, HYDRAULIC"
+retrofit part,1,"SERVICE BRAKES, HYDRAULIC"
+replace unit/part,689,POWER TRAIN
+notify owner,665,POWER TRAIN
+service unit,548,POWER TRAIN
+inspect unit,317,POWER TRAIN
+install part,169,POWER TRAIN
+missing info,105,POWER TRAIN
+repair fault,94,POWER TRAIN
+modify part,83,POWER TRAIN
+reprogram software,38,POWER TRAIN
+remove part,31,POWER TRAIN
+no classification,26,POWER TRAIN
+adjust part,6,POWER TRAIN
+retrofit part,1,POWER TRAIN
+replace unit/part,807,"FUEL SYSTEM, GASOLINE"
+notify owner,486,"FUEL SYSTEM, GASOLINE"
+service unit,375,"FUEL SYSTEM, GASOLINE"
+install part,302,"FUEL SYSTEM, GASOLINE"
+inspect unit,272,"FUEL SYSTEM, GASOLINE"
+missing info,119,"FUEL SYSTEM, GASOLINE"
+modify part,83,"FUEL SYSTEM, GASOLINE"
+repair fault,69,"FUEL SYSTEM, GASOLINE"
+no classification,65,"FUEL SYSTEM, GASOLINE"
+adjust part,33,"FUEL SYSTEM, GASOLINE"
+remove part,32,"FUEL SYSTEM, GASOLINE"
+reprogram software,9,"FUEL SYSTEM, GASOLINE"
+refund owner,3,"FUEL SYSTEM, GASOLINE"
+retrofit part,1,"FUEL SYSTEM, GASOLINE"
+replace unit/part,529,SEAT BELTS
+notify owner,445,SEAT BELTS
+service unit,353,SEAT BELTS
+inspect unit,274,SEAT BELTS
+install part,172,SEAT BELTS
+missing info,75,SEAT BELTS
+repair fault,64,SEAT BELTS
+modify part,64,SEAT BELTS
+no classification,33,SEAT BELTS
+remove part,16,SEAT BELTS
+adjust part,11,SEAT BELTS
+retrofit part,4,SEAT BELTS
+refund owner,2,SEAT BELTS
+notify owner,396,SEATS
+replace unit/part,281,SEATS
+service unit,277,SEATS
+install part,160,SEATS
+inspect unit,138,SEATS
+repair fault,91,SEATS
+missing info,35,SEATS
+remove part,29,SEATS
+modify part,22,SEATS
+no classification,21,SEATS
+adjust part,6,SEATS
+retrofit part,3,SEATS
+refund owner,3,SEATS
+reprogram software,1,SEATS
+replace unit/part,763,TIRES
+notify owner,711,TIRES
+service unit,306,TIRES
+missing info,172,TIRES
+inspect unit,83,TIRES
+install part,47,TIRES
+no classification,22,TIRES
+repair fault,11,TIRES
+modify part,10,TIRES
+remove part,9,TIRES
+reprogram software,8,TIRES
+refund owner,7,TIRES
+adjust part,4,TIRES
+notify owner,648,STRUCTURE
+service unit,530,STRUCTURE
+replace unit/part,467,STRUCTURE
+install part,369,STRUCTURE
+inspect unit,238,STRUCTURE
+repair fault,164,STRUCTURE
+missing info,99,STRUCTURE
+modify part,61,STRUCTURE
+no classification,55,STRUCTURE
+remove part,44,STRUCTURE
+adjust part,6,STRUCTURE
+retrofit part,5,STRUCTURE
+refund owner,1,STRUCTURE
+reprogram software,1,STRUCTURE
+replace unit/part,910,SUSPENSION
+notify owner,691,SUSPENSION
+service unit,591,SUSPENSION
+inspect unit,405,SUSPENSION
+missing info,226,SUSPENSION
+install part,211,SUSPENSION
+repair fault,128,SUSPENSION
+modify part,104,SUSPENSION
+no classification,54,SUSPENSION
+remove part,43,SUSPENSION
+retrofit part,10,SUSPENSION
+adjust part,2,SUSPENSION
+refund owner,1,SUSPENSION
+replace unit/part,402,WHEELS
+notify owner,217,WHEELS
+missing info,167,WHEELS
+service unit,128,WHEELS
+inspect unit,120,WHEELS
+install part,51,WHEELS
+modify part,33,WHEELS
+repair fault,28,WHEELS
+no classification,21,WHEELS
+remove part,20,WHEELS
+refund owner,6,WHEELS
+replace unit/part,236,LATCHES/LOCKS/LINKAGES
+notify owner,203,LATCHES/LOCKS/LINKAGES
+service unit,106,LATCHES/LOCKS/LINKAGES
+missing info,57,LATCHES/LOCKS/LINKAGES
+inspect unit,56,LATCHES/LOCKS/LINKAGES
+install part,56,LATCHES/LOCKS/LINKAGES
+modify part,25,LATCHES/LOCKS/LINKAGES
+repair fault,24,LATCHES/LOCKS/LINKAGES
+no classification,6,LATCHES/LOCKS/LINKAGES
+remove part,5,LATCHES/LOCKS/LINKAGES
+adjust part,1,LATCHES/LOCKS/LINKAGES
+reprogram software,1,LATCHES/LOCKS/LINKAGES
+refund owner,1,LATCHES/LOCKS/LINKAGES
+notify owner,1417,ELECTRICAL SYSTEM
+service unit,1189,ELECTRICAL SYSTEM
+replace unit/part,892,ELECTRICAL SYSTEM
+inspect unit,470,ELECTRICAL SYSTEM
+install part,411,ELECTRICAL SYSTEM
+repair fault,215,ELECTRICAL SYSTEM
+modify part,148,ELECTRICAL SYSTEM
+adjust part,143,ELECTRICAL SYSTEM
+no classification,89,ELECTRICAL SYSTEM
+reprogram software,69,ELECTRICAL SYSTEM
+missing info,65,ELECTRICAL SYSTEM
+remove part,60,ELECTRICAL SYSTEM
+retrofit part,11,ELECTRICAL SYSTEM
+refund owner,6,ELECTRICAL SYSTEM
+replace unit/part,257,VEHICLE SPEED CONTROL
+install part,127,VEHICLE SPEED CONTROL
+notify owner,123,VEHICLE SPEED CONTROL
+missing info,106,VEHICLE SPEED CONTROL
+service unit,75,VEHICLE SPEED CONTROL
+inspect unit,57,VEHICLE SPEED CONTROL
+no classification,29,VEHICLE SPEED CONTROL
+modify part,23,VEHICLE SPEED CONTROL
+remove part,22,VEHICLE SPEED CONTROL
+repair fault,22,VEHICLE SPEED CONTROL
+adjust part,11,VEHICLE SPEED CONTROL
+reprogram software,8,VEHICLE SPEED CONTROL
+refund owner,3,VEHICLE SPEED CONTROL
+retrofit part,3,VEHICLE SPEED CONTROL
+replace unit/part,526,"SERVICE BRAKES, AIR"
+notify owner,436,"SERVICE BRAKES, AIR"
+service unit,419,"SERVICE BRAKES, AIR"
+repair fault,189,"SERVICE BRAKES, AIR"
+inspect unit,178,"SERVICE BRAKES, AIR"
+install part,152,"SERVICE BRAKES, AIR"
+missing info,107,"SERVICE BRAKES, AIR"
+no classification,64,"SERVICE BRAKES, AIR"
+modify part,53,"SERVICE BRAKES, AIR"
+remove part,25,"SERVICE BRAKES, AIR"
+adjust part,24,"SERVICE BRAKES, AIR"
+reprogram software,9,"SERVICE BRAKES, AIR"
+refund owner,2,"SERVICE BRAKES, AIR"
+retrofit part,1,"SERVICE BRAKES, AIR"
+replace unit/part,182,TRAILER HITCHES
+notify owner,131,TRAILER HITCHES
+service unit,116,TRAILER HITCHES
+install part,78,TRAILER HITCHES
+inspect unit,66,TRAILER HITCHES
+repair fault,44,TRAILER HITCHES
+missing info,29,TRAILER HITCHES
+no classification,21,TRAILER HITCHES
+modify part,16,TRAILER HITCHES
+remove part,7,TRAILER HITCHES
+adjust part,2,TRAILER HITCHES
+replace unit/part,330,VISIBILITY
+notify owner,293,VISIBILITY
+service unit,241,VISIBILITY
+install part,230,VISIBILITY
+inspect unit,126,VISIBILITY
+missing info,59,VISIBILITY
+remove part,46,VISIBILITY
+repair fault,43,VISIBILITY
+modify part,31,VISIBILITY
+no classification,25,VISIBILITY
+adjust part,13,VISIBILITY
+retrofit part,5,VISIBILITY
+reprogram software,5,VISIBILITY
+refund owner,1,VISIBILITY
+notify owner,558,ENGINE AND ENGINE COOLING
+replace unit/part,556,ENGINE AND ENGINE COOLING
+service unit,378,ENGINE AND ENGINE COOLING
+install part,205,ENGINE AND ENGINE COOLING
+inspect unit,167,ENGINE AND ENGINE COOLING
+repair fault,132,ENGINE AND ENGINE COOLING
+modify part,50,ENGINE AND ENGINE COOLING
+missing info,45,ENGINE AND ENGINE COOLING
+no classification,41,ENGINE AND ENGINE COOLING
+reprogram software,30,ENGINE AND ENGINE COOLING
+remove part,25,ENGINE AND ENGINE COOLING
+adjust part,15,ENGINE AND ENGINE COOLING
+refund owner,2,ENGINE AND ENGINE COOLING
+retrofit part,1,ENGINE AND ENGINE COOLING
+replace unit/part,167,PARKING BRAKE
+notify owner,142,PARKING BRAKE
+service unit,119,PARKING BRAKE
+inspect unit,56,PARKING BRAKE
+install part,51,PARKING BRAKE
+repair fault,43,PARKING BRAKE
+modify part,23,PARKING BRAKE
+missing info,21,PARKING BRAKE
+adjust part,8,PARKING BRAKE
+no classification,8,PARKING BRAKE
+remove part,6,PARKING BRAKE
+reprogram software,2,PARKING BRAKE
+retrofit part,1,PARKING BRAKE
+notify owner,2417,EQUIPMENT
+service unit,2033,EQUIPMENT
+replace unit/part,1891,EQUIPMENT
+install part,801,EQUIPMENT
+repair fault,521,EQUIPMENT
+inspect unit,392,EQUIPMENT
+no classification,204,EQUIPMENT
+modify part,119,EQUIPMENT
+missing info,110,EQUIPMENT
+refund owner,100,EQUIPMENT
+remove part,98,EQUIPMENT
+adjust part,68,EQUIPMENT
+retrofit part,39,EQUIPMENT
+reprogram software,4,EQUIPMENT
+notify owner,622,EXTERIOR LIGHTING
+replace unit/part,477,EXTERIOR LIGHTING
+service unit,444,EXTERIOR LIGHTING
+install part,214,EXTERIOR LIGHTING
+inspect unit,121,EXTERIOR LIGHTING
+missing info,80,EXTERIOR LIGHTING
+refund owner,61,EXTERIOR LIGHTING
+repair fault,58,EXTERIOR LIGHTING
+no classification,48,EXTERIOR LIGHTING
+modify part,32,EXTERIOR LIGHTING
+remove part,23,EXTERIOR LIGHTING
+reprogram software,23,EXTERIOR LIGHTING
+adjust part,8,EXTERIOR LIGHTING
+retrofit part,3,EXTERIOR LIGHTING
+replace unit/part,77,UNKNOWN OR OTHER
+notify owner,48,UNKNOWN OR OTHER
+install part,39,UNKNOWN OR OTHER
+service unit,34,UNKNOWN OR OTHER
+no classification,28,UNKNOWN OR OTHER
+missing info,24,UNKNOWN OR OTHER
+inspect unit,13,UNKNOWN OR OTHER
+modify part,10,UNKNOWN OR OTHER
+repair fault,8,UNKNOWN OR OTHER
+remove part,8,UNKNOWN OR OTHER
+retrofit part,4,UNKNOWN OR OTHER
+adjust part,3,UNKNOWN OR OTHER
+refund owner,1,UNKNOWN OR OTHER
+missing info,19,"SERVICE BRAKES, ELECTRIC"
+service unit,19,"SERVICE BRAKES, ELECTRIC"
+notify owner,18,"SERVICE BRAKES, ELECTRIC"
+replace unit/part,7,"SERVICE BRAKES, ELECTRIC"
+inspect unit,6,"SERVICE BRAKES, ELECTRIC"
+modify part,6,"SERVICE BRAKES, ELECTRIC"
+install part,4,"SERVICE BRAKES, ELECTRIC"
+adjust part,4,"SERVICE BRAKES, ELECTRIC"
+repair fault,2,"SERVICE BRAKES, ELECTRIC"
+no classification,1,"SERVICE BRAKES, ELECTRIC"
+retrofit part,1,"SERVICE BRAKES, ELECTRIC"
+replace unit/part,155,"FUEL SYSTEM, OTHER"
+notify owner,144,"FUEL SYSTEM, OTHER"
+service unit,106,"FUEL SYSTEM, OTHER"
+install part,42,"FUEL SYSTEM, OTHER"
+inspect unit,38,"FUEL SYSTEM, OTHER"
+repair fault,33,"FUEL SYSTEM, OTHER"
+adjust part,14,"FUEL SYSTEM, OTHER"
+modify part,8,"FUEL SYSTEM, OTHER"
+retrofit part,7,"FUEL SYSTEM, OTHER"
+no classification,6,"FUEL SYSTEM, OTHER"
+remove part,3,"FUEL SYSTEM, OTHER"
+refund owner,2,"FUEL SYSTEM, OTHER"
+missing info,1,"FUEL SYSTEM, OTHER"
+replace unit/part,166,CHILD SEAT
+notify owner,123,CHILD SEAT
+service unit,59,CHILD SEAT
+repair fault,43,CHILD SEAT
+install part,33,CHILD SEAT
+no classification,22,CHILD SEAT
+inspect unit,16,CHILD SEAT
+missing info,9,CHILD SEAT
+remove part,7,CHILD SEAT
+refund owner,6,CHILD SEAT
+retrofit part,6,CHILD SEAT
+modify part,4,CHILD SEAT
+notify owner,23,INTERIOR LIGHTING
+replace unit/part,22,INTERIOR LIGHTING
+repair fault,10,INTERIOR LIGHTING
+install part,8,INTERIOR LIGHTING
+service unit,8,INTERIOR LIGHTING
+modify part,3,INTERIOR LIGHTING
+no classification,3,INTERIOR LIGHTING
+remove part,2,INTERIOR LIGHTING
+retrofit part,1,INTERIOR LIGHTING
+inspect unit,1,INTERIOR LIGHTING
+notify owner,153,"FUEL SYSTEM, DIESEL"
+service unit,144,"FUEL SYSTEM, DIESEL"
+replace unit/part,129,"FUEL SYSTEM, DIESEL"
+inspect unit,57,"FUEL SYSTEM, DIESEL"
+install part,36,"FUEL SYSTEM, DIESEL"
+modify part,9,"FUEL SYSTEM, DIESEL"
+repair fault,7,"FUEL SYSTEM, DIESEL"
+remove part,3,"FUEL SYSTEM, DIESEL"
+adjust part,2,"FUEL SYSTEM, DIESEL"
+notify owner,104,BACK OVER PREVENTION
+service unit,103,BACK OVER PREVENTION
+replace unit/part,28,BACK OVER PREVENTION
+install part,10,BACK OVER PREVENTION
+reprogram software,9,BACK OVER PREVENTION
+inspect unit,7,BACK OVER PREVENTION
+repair fault,3,BACK OVER PREVENTION
+remove part,2,BACK OVER PREVENTION
+no classification,1,BACK OVER PREVENTION
+modify part,1,BACK OVER PREVENTION
+notify owner,746,AIR BAGS
+service unit,705,AIR BAGS
+replace unit/part,687,AIR BAGS
+inspect unit,153,AIR BAGS
+install part,143,AIR BAGS
+repair fault,55,AIR BAGS
+modify part,37,AIR BAGS
+reprogram software,37,AIR BAGS
+remove part,19,AIR BAGS
+no classification,13,AIR BAGS
+adjust part,7,AIR BAGS
+refund owner,1,AIR BAGS
+notify owner,67,ELECTRONIC STABILITY CONTROL
+service unit,55,ELECTRONIC STABILITY CONTROL
+replace unit/part,31,ELECTRONIC STABILITY CONTROL
+install part,11,ELECTRONIC STABILITY CONTROL
+inspect unit,11,ELECTRONIC STABILITY CONTROL
+reprogram software,10,ELECTRONIC STABILITY CONTROL
+repair fault,6,ELECTRONIC STABILITY CONTROL
+adjust part,4,ELECTRONIC STABILITY CONTROL
+notify owner,240,EQUIPMENT ADAPTIVE/MOBILITY
+replace unit/part,206,EQUIPMENT ADAPTIVE/MOBILITY
+service unit,177,EQUIPMENT ADAPTIVE/MOBILITY
+no classification,151,EQUIPMENT ADAPTIVE/MOBILITY
+inspect unit,66,EQUIPMENT ADAPTIVE/MOBILITY
+repair fault,52,EQUIPMENT ADAPTIVE/MOBILITY
+install part,39,EQUIPMENT ADAPTIVE/MOBILITY
+modify part,4,EQUIPMENT ADAPTIVE/MOBILITY
+retrofit part,1,EQUIPMENT ADAPTIVE/MOBILITY
+notify owner,31,OTHER
+replace unit/part,24,OTHER
+service unit,16,OTHER
+inspect unit,14,OTHER
+repair fault,5,OTHER
 install part,1,OTHER
-notify owner,1,OTHER
-service unit,1,OTHER
-inspect unit,1,VEHICLE SPEED CONTROL
-install part,1,VEHICLE SPEED CONTROL
-notify owner,1,VEHICLE SPEED CONTROL
-replace unit/part,1,VEHICLE SPEED CONTROL
-service unit,40,ENGINE AND ENGINE COOLING
-notify owner,36,ENGINE AND ENGINE COOLING
-replace unit/part,27,ENGINE AND ENGINE COOLING
-inspect unit,4,ENGINE AND ENGINE COOLING
-install part,3,ENGINE AND ENGINE COOLING
-modify part,2,ENGINE AND ENGINE COOLING
-refund owner,1,ENGINE AND ENGINE COOLING
-reprogram software,1,ENGINE AND ENGINE COOLING
-service unit,12,PARKING BRAKE
-notify owner,11,PARKING BRAKE
-replace unit/part,3,PARKING BRAKE
-install part,2,PARKING BRAKE
-repair fault,2,PARKING BRAKE
-adjust part,1,PARKING BRAKE
-inspect unit,1,PARKING BRAKE
-modify part,1,PARKING BRAKE
-remove part,1,PARKING BRAKE
-notify owner,2,FORWARD COLLISION AVOIDANCE
-service unit,1,FORWARD COLLISION AVOIDANCE
-replace unit/part,1,FORWARD COLLISION AVOIDANCE
-service unit,9,WHEELS
-notify owner,8,WHEELS
-replace unit/part,5,WHEELS
-modify part,4,WHEELS
-inspect unit,3,WHEELS
-install part,1,WHEELS
-repair fault,1,WHEELS
-notify owner,11,ENGINE
-service unit,11,ENGINE
-inspect unit,6,ENGINE
-replace unit/part,6,ENGINE
-install part,4,ENGINE
+notify owner,80,SERVICE BRAKES
+service unit,61,SERVICE BRAKES
+replace unit/part,45,SERVICE BRAKES
+inspect unit,34,SERVICE BRAKES
+install part,19,SERVICE BRAKES
+modify part,10,SERVICE BRAKES
+repair fault,7,SERVICE BRAKES
+reprogram software,1,SERVICE BRAKES
+adjust part,1,SERVICE BRAKES
+notify owner,13,VISIBILITY/WIPER
+replace unit/part,7,VISIBILITY/WIPER
+service unit,7,VISIBILITY/WIPER
+inspect unit,4,VISIBILITY/WIPER
+install part,3,VISIBILITY/WIPER
+repair fault,2,VISIBILITY/WIPER
+modify part,1,VISIBILITY/WIPER
+notify owner,90,ENGINE
+service unit,86,ENGINE
+replace unit/part,56,ENGINE
+inspect unit,29,ENGINE
+install part,15,ENGINE
+repair fault,9,ENGINE
+modify part,4,ENGINE
+remove part,4,ENGINE
+reprogram software,3,ENGINE
 adjust part,2,ENGINE
-remove part,1,ENGINE
-service unit,9,"FUEL SYSTEM, DIESEL"
-notify owner,8,"FUEL SYSTEM, DIESEL"
-replace unit/part,6,"FUEL SYSTEM, DIESEL"
-inspect unit,6,"FUEL SYSTEM, DIESEL"
-install part,3,"FUEL SYSTEM, DIESEL"
-modify part,1,"FUEL SYSTEM, DIESEL"
-notify owner,2,COMMUNICATION
-service unit,1,COMMUNICATION
-notify owner,27,SUSPENSION
-service unit,27,SUSPENSION
-replace unit/part,22,SUSPENSION
-inspect unit,11,SUSPENSION
-modify part,6,SUSPENSION
-install part,4,SUSPENSION
-repair fault,1,SUSPENSION
-remove part,1,SUSPENSION
-notify owner,8,LATCHES/LOCKS/LINKAGES
-service unit,8,LATCHES/LOCKS/LINKAGES
-replace unit/part,7,LATCHES/LOCKS/LINKAGES
-inspect unit,5,LATCHES/LOCKS/LINKAGES
-notify owner,2,SERVICE BRAKES
-service unit,2,SERVICE BRAKES
-install part,1,SERVICE BRAKES
-replace unit/part,1,SERVICE BRAKES
-inspect unit,2,HYBRID PROPULSION SYSTEM
-notify owner,2,HYBRID PROPULSION SYSTEM
-replace unit/part,2,HYBRID PROPULSION SYSTEM
-service unit,2,HYBRID PROPULSION SYSTEM
-notify owner,7,TRAILER HITCHES
-service unit,7,TRAILER HITCHES
-repair fault,4,TRAILER HITCHES
-replace unit/part,3,TRAILER HITCHES
-inspect unit,3,TRAILER HITCHES
-install part,1,TRAILER HITCHES
-remove part,1,TRAILER HITCHES
-modify part,1,TRAILER HITCHES
-notify owner,2,EQUIPMENT ADAPTIVE/MOBILITY
-replace unit/part,2,EQUIPMENT ADAPTIVE/MOBILITY
-service unit,2,EQUIPMENT ADAPTIVE/MOBILITY
-inspect unit,1,EQUIPMENT ADAPTIVE/MOBILITY
+service unit,38,HYBRID PROPULSION SYSTEM
+notify owner,37,HYBRID PROPULSION SYSTEM
+replace unit/part,21,HYBRID PROPULSION SYSTEM
+inspect unit,12,HYBRID PROPULSION SYSTEM
+reprogram software,6,HYBRID PROPULSION SYSTEM
+install part,4,HYBRID PROPULSION SYSTEM
+repair fault,4,HYBRID PROPULSION SYSTEM
+remove part,2,HYBRID PROPULSION SYSTEM
+notify owner,19,FORWARD COLLISION AVOIDANCE
+service unit,18,FORWARD COLLISION AVOIDANCE
+reprogram software,3,FORWARD COLLISION AVOIDANCE
+replace unit/part,3,FORWARD COLLISION AVOIDANCE
+repair fault,1,FORWARD COLLISION AVOIDANCE
+modify part,1,FORWARD COLLISION AVOIDANCE
+inspect unit,1,FORWARD COLLISION AVOIDANCE
+inspect unit,1,TBD
+notify owner,1,TBD
+replace unit/part,1,TBD
+service unit,1,TBD
+notify owner,8,LANE DEPARTURE
+service unit,8,LANE DEPARTURE
+inspect unit,2,LANE DEPARTURE
+install part,1,LANE DEPARTURE
+notify owner,8,COMMUNICATION
+service unit,8,COMMUNICATION
+replace unit/part,1,COMMUNICATION
+repair fault,1,COMMUNICATION
+inspect unit,1,COMMUNICATION
+notify owner,2,TRACTION CONTROL SYSTEM
+service unit,2,TRACTION CONTROL SYSTEM
+reprogram software,1,TRACTION CONTROL SYSTEM
